@@ -1,6 +1,6 @@
 # RevoU Library
 
-> Assignment for Week 8: Tailwind, DOM, docker
+> Assignment for Week 8: Tailwind, DOM, Docker
 
 ## Pages :
 
